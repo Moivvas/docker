@@ -1,0 +1,5 @@
+markdown-it-py==3.0.0
+mdurl==0.1.2
+-e git+https://github.com/Moivvas/personal_assistant.git@2ae6663b86e6a9fb76a6ed9941f39869385c2ca3#egg=personal_assistant
+Pygments==2.16.1
+rich==13.5.2
